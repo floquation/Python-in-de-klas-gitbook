@@ -77,6 +77,12 @@ print(*lst, sep='\n')
 
 gebruik een functie om antwoord te valideren (prevent code duplication)
 
-# Les 6: if met functies
+# Les 6
+
+## Raad spelletje
+
+Computer neemt getal in gedachten. Speler moet getal raden (`input`). Computer zegt of het goed of fout was (`if` en `else`).
+
+## if met functies
 
 maak een aparte functie per branch om de code beter te structureren
