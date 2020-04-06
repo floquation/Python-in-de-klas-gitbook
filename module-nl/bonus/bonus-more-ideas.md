@@ -64,6 +64,22 @@ print(worp)
 
 # Les 4: Lijsten
 
+## Meervoud en enkelvoud
+
+```python
+dieren = [ (wolf, wolven), (hond, honden), (bever, bevers) ]
+print('Enkelvoud:', dieren[0][0]) # wolf
+print('Meervoud:',  dieren[0][1]) # wolven
+```
+
+```python
+import random
+dieren = [ (wolf, wolven), (hond, honden), (bever, bevers) ]
+random.shuffle(dieren)
+print('Enkelvoud:', dieren[0][0]) # willekeurige enkelvoud
+print('Meervoud:',  dieren[0][1]) # willekeurige bijbehorende meervoud
+```
+
 ## Lijst printen met layout
 hele lijst in één keer printen;
 lijst mooier weergeven door hem te unpacken en een separator te definiëren
