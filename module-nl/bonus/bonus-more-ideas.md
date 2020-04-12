@@ -102,3 +102,7 @@ Computer neemt getal in gedachten. Speler moet getal raden (`input`). Computer z
 ## if met functies
 
 maak een aparte functie per branch om de code beter te structureren
+
+## lower-case
+
+check een ja/nee vraag met `antwoord.lower() == 'ja'` om het zowel met als zonder hoofdletters te laten werken.
