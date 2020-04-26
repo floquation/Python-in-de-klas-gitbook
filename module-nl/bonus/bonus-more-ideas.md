@@ -25,6 +25,9 @@ Zie ook:
 Alle tekst clearen:
 * https://stackoverflow.com/questions/19596750/is-there-a-way-to-clear-your-printed-text-in-python
 
+Karakter-voor-karakter laten verschijnen (maar wel met een functie):
+* https://stackoverflow.com/questions/9246076/how-to-print-one-character-at-a-time-on-one-line
+
 ## meer time library features
 
 * huidige tijd opvragen
