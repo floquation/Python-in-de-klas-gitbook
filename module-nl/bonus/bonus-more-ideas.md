@@ -1,3 +1,25 @@
+# Les 1: print
+
+## escape characters
+
+De code
+```python
+print('Ik programmeer altijd 's avonds')
+```
+geeft een foutmelding. Zie je waarom?
+
+Je kunt dit oplossen met een zogenaamde "escape character". Je kunt het aanhalingsteken voor de s vervangen door `\'`. Die backslash (\) geeft aan dat het symbool wat na de backslash staat geen code is, maar tekst. Zo "ontsnap" je aan dat Python je tekst al afsluit. Daarom heet de backslash een _escape_ character.
+
+```python
+print('Ik programmeer altijd \'s avonds')
+```
+
+## ASCII-art
+
+* http://patorjk.com/software/taag/
+* https://asciiart.website/index.php
+* https://www.ascii-art-generator.org/
+
 # Les 2: Time
 
 ## Aftellen
